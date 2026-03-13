@@ -17,7 +17,6 @@ ELAN (EAF) ファイルを、形態素・グロス・品詞・語境界情報を
 
 ```
 eaf2json.py          # メインスクリプト（CLI / import 両対応）
-run_eaf2json.ipynb   # Jupyter Lab 用ノートブック
 ```
 
 ## 使い方
